@@ -1,0 +1,166 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.homelogo {
+    text-align: center;   
+}
+
+#logo {
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+.nav-bar {
+    background: black;
+    height: 5%;
+    text-align: left;
+    }
+
+#nav-button {
+    text-decoration: none;
+    margin-right: 60px;
+    color: white;
+    font-size: 14px;
+}
+
+#nav-button:hover {
+    color: rgb(255, 197, 38);
+}
+
+#background-img {
+    width: 100%;
+    height: auto;
+}
+
+.image-wall {
+    text-align: center;
+}
+
+#featured-show {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 110px;
+    width: 100%;
+    color: white;
+}
+
+.show-list {
+    margin-top: 75px;
+}
+
+#month {
+    background: lightgrey;
+    border: 1px solid rgb(163, 163, 163);
+    border-radius: 2px;
+    margin-bottom: 30px;
+    padding-left: 33px;
+    font-size: 17px;
+}
+
+.details {
+    display: block;
+}
+
+.details h4 {
+    margin-bottom: 15px;
+}
+
+#show-img {
+    width: 180px;
+    height: 130px;
+    /* object-fit: cover; */
+}
+
+.read-more {
+    align-items: center;
+}
+
+#read-more-button {
+    position: relative;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 85%;
+    height: 40px;
+    color: white;
+    background-color: rgb(255, 195, 66);
+}
+
+.divid-line {
+    padding: 0 25px 0 25px;
+    margin-top: 8px;
+}
+
+.footer {
+    background-color: black;
+    padding: 67px 80px;
+    color: white;
+}
+
+.map-img {
+    padding: 0 10px;
+    width: 90%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-row {
+    margin-top: 15px;
+}
+
+.info p {
+    font-size: 13px;
+    margin: 30px 0;
+}
+
+.info p a {
+    text-decoration: none;
+    color: rgb(255, 197, 38);
+}
+
+.info p a:hover {
+    color: white;
+}
+
+#infoicon {
+    width: 25px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.info2 p {
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+.info2 p a {
+    text-decoration: none;
+    color: rgb(255, 197, 38);
+
+}
+
+.info2 p a:hover {
+    color: white; 
+}
+
+.info3 p {
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+.info3 p a {
+    text-decoration: none;
+    color: rgb(255, 197, 38);
+
+}
+
+.info3 p a:hover {
+    color: white; 
+}
+
+
